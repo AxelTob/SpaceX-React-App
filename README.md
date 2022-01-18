@@ -1,7 +1,7 @@
 # React app with GraphQL and TypeScript
 A fully functioning React app using a GraphQL implemention of the public SpaceX API.
 
-Follow along from guide, treyhuffine.
+Follow along guide from *treyhuffine*.
 
 # Getting Started with Create React App
 
